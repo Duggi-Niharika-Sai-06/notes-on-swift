@@ -1,5 +1,10 @@
 # notes-on-swift
 
+
+https://duggi-niharika-sai-06.github.io/notes-on-swift/
+
+
+
 Safety and simplicity: Swift is designed to be a safer and simpler language than Objective-C. Swift has a syntax that is more concise and readable than Objective-C, which can make it easier to write and maintain code. Additionally, Swift has features like optionals and type inference that make it easier to avoid common errors like null pointer exceptions and type mismatches.
 
 Performance: Swift is faster than Objective-C, thanks to its modern design and use of advanced compiler optimization techniques. Swift is also designed to take advantage of modern hardware, like multi-core processors, which can result in faster performance.
